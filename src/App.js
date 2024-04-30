@@ -9,38 +9,38 @@ const chessSets = [
     id: 1,
     title: 'chess sets',
     link: 'https://chess-set-sales-page.vercel.app/',
-    description: 'Description of Chess Set 1...',
+    description: 'a few different chess sets you can get',
   },
   {
     id: 2,
     title: 'masks',
     link: 'https://mask-s-sales-page.vercel.app/',
-    description: 'Description of Star Wars Chess Set...',
+    description: 'here is a few masks you can order if you like them',
   },
   {
     id: 3,
     title: 'skulls',
-    link: '',
-    description: 'here you can find skulls readdy for production',
+    link: 'https://skull-sales-page.vercel.app/',
+    description: 'here you can find skulls ready for production',
   },
 
   {
     id: 4,
-    title: 'skulls',
+    title: 'more comming soon',
     link: '',
-    description: 'here you can find skulls readdy for production',
+    description: 'more comming soon',
   },
   {
     id: 5,
-    title: 'skulls',
+    title: 'more comming soon',
     link: '',
-    description: 'here you can find skulls readdy for production',
+    description: 'more comming soon',
   },
   {
     id: 6,
-    title: 'skulls',
+    title: 'more comming soon',
     link: '',
-    description: 'here you can find skulls readdy for production',
+    description: 'more comming soon',
   },
 ];
 
