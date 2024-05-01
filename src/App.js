@@ -26,8 +26,8 @@ const chessSets = [
 
   {
     id: 4,
-    title: 'more comming soon',
-    link: '',
+    title: 'random section',
+    link: 'https://random-items.vercel.app/',
     description: 'more comming soon',
   },
   {
