@@ -63,8 +63,8 @@ function ChessSet({ title, link, description }) {
 }
 
 function App() {
-  // cut out to protect my info
-  const aboutMeUrl = "htps://eric-canavercel.app/";
+  
+  const aboutMeUrl = "https://eric-canada.vercel.app/";
 
   return (
     <div className="app">
